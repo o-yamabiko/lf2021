@@ -22,8 +22,6 @@ if [[ $2 = index* ]] || [[ $2 = test* ]] ; then
   echo 'date: '`date +%Y-%m-%dT%TZ` >> $2.md
   echo 'oto: '$2'/sound0001' >> $2.md
 else
-  echo 'layout: caymanyomi' >> $2.md
-  echo 'docid: '$2 >> $2.md
 
   # if tusinYYYYmm
   if [[ $2 != tusin* ]]; then
@@ -31,17 +29,19 @@ else
   else
     echo 'title: やまびこ通信'$YEAR'年'$MONTH1'月号' >> $2.md
   fi
-
-  echo 'author: 音訳グループ やまびこ' >> $2.md
-  echo 'date: '`date +%Y-%m-%dT%TZ` >> $2.md
-  echo 'oto: '$2'/sound0001' >> $2.md
-  echo 'background: '$2'/default.png' >> $2.md
-  echo 'imagefrom: ' >> $2.md
-  echo 'imagefromurl: ' >> $2.md
-  echo 'navigation: true' >> $2.md
 fi
-  echo 'iro: ' >> $2.md
-  echo 'gra: ' >> $2.md
+
+echo 'layout: caymanyomi' >> $2.md
+echo 'docid: '$2 >> $2.md
+echo 'author: 音訳グループ やまびこ' >> $2.md
+echo 'date: '`date +%Y-%m-%dT%TZ` >> $2.md
+echo 'oto: '$2'/sound0001' >> $2.md
+echo 'background: '$2'/default.png' >> $2.md
+echo 'imagefrom: ' >> $2.md
+echo 'imagefromurl: ' >> $2.md
+echo 'navigation: true' >> $2.md
+echo 'iro: ' >> $2.md
+echo 'gra: ' >> $2.md
 echo '---' >> $2.md
 echo '   ' >> $2.md
 

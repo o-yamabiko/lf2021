@@ -1,7 +1,11 @@
 ---
 docid: index
-lang: 
-date: 2021-03-06T02:32:22Z
+date: 2021-03-06T02:37:01Z
+oto: index/sound0001
+layout: caymanyomi
+docid: index
+author: 音訳グループ やまびこ
+date: 2021-03-06T02:37:01Z
 oto: index/sound0001
 iro: 
 gra: 
