@@ -16,9 +16,7 @@ gra: 00adef
 <span data-dur="3.543" data-begin="11.679" id="xmri_0003" markdown="1">何でもOK!</span>
 
 
-#[音声付きのページ](index-s.html){: .migi}
-
-## <span data-dur="2.064" data-begin="15.222" id="xmri_0004" markdown="1">対面朗読で</span>
+### <span data-dur="2.064" data-begin="15.222" id="xmri_0004" markdown="1">対面朗読で</span>
 
 ![対面朗読のイラスト](media/index/image00001.png){: .migi}
 
@@ -34,9 +32,7 @@ gra: 00adef
 <span data-dur="3.264" data-begin="32.741" id="xmri_000B" markdown="1">お気軽にご利用ください</span>
 
 
-#[音声付きのページ](index-s.html){: .migi}
-
-## <span data-dur="1.959" data-begin="36.005" id="xmri_000C" markdown="1">録音図書で</span>
+### <span data-dur="1.959" data-begin="36.005" id="xmri_000C" markdown="1">録音図書で</span>
 
 ![録音のイラスト](media/index/image00002.png){: .migi}
 
@@ -63,9 +59,7 @@ gra: 00adef
 ## <span data-dur="4.79" data-begin="66.632" id="xmri_0019" markdown="1">利用してみたいけど…どうしたら…</span>
 
 
-#[音声付きのページ](index-s.html){: .migi}
-
-## <span data-dur="1.065" data-begin="71.422" id="xmri_001A" markdown="1">①</span><span data-dur="4.667" data-begin="72.487" id="xmri_001B" markdown="1">まずはお近くの図書館で利用カードの登録</span>
+### <span data-dur="1.065" data-begin="71.422" id="xmri_001A" markdown="1">①</span><span data-dur="4.667" data-begin="72.487" id="xmri_001B" markdown="1">まずはお近くの図書館で利用カードの登録</span>
 
 <span data-dur="5.35" data-begin="77.154" id="xmri_001C" markdown="1">図書館の障害者サービス担当が登録のお手伝いをします</span>
 
@@ -74,9 +68,7 @@ gra: 00adef
 <span data-dur="5.793" data-begin="87.303" id="xmri_001E" markdown="1">CDの再生機の貸し出し・使い方など説明致します</span>
 
 
-#[音声付きのページ](index-s.html){: .migi}
-
-## <span data-dur="0.928" data-begin="93.096" id="xmri_001F" markdown="1">②</span><span data-dur="2.107" data-begin="94.024" id="xmri_0020" markdown="1">やまびこにお電話ください</span>
+### <span data-dur="0.928" data-begin="93.096" id="xmri_001F" markdown="1">②</span><span data-dur="2.107" data-begin="94.024" id="xmri_0020" markdown="1">やまびこにお電話ください</span>
 
 <span data-dur="2.328" data-begin="96.131" id="xmri_0021" markdown="1">メールでもOKです</span>
 
@@ -95,9 +87,7 @@ gra: 00adef
 <span data-dur="5.195" data-begin="119.649" id="xmri_0029" markdown="1">バリアフリー映画会や朗読会なども開催しています</span>
 
 
-#[音声付きのページ](index-s.html){: .migi}
-
-## <span data-dur="1.935" data-begin="124.844" id="xmri_002A" markdown="1">利用者さんからの声</span>
+### <span data-dur="1.935" data-begin="124.844" id="xmri_002A" markdown="1">利用者さんからの声</span>
 
 <span data-dur="1.993" data-begin="126.779" id="xmri_002B" markdown="1">(北区桐ヶ丘在住</span>
 <span data-dur="1.758" data-begin="128.772" id="xmri_002C" markdown="1">S.Iさん)</span>
