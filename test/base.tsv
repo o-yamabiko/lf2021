@@ -3,7 +3,7 @@
 5.101	6.578	xmri_0002	雑誌・新聞・ちらし・取扱説明書・学習資料
 3.543	11.679	xmri_0003	何でもOK!ppp
 2.064	15.222	xmri_0004	###&ensp;対面朗読でppp
-1.15	17.286	xmri_0005	![対面朗読のイラスト](media/index/image00001.png){ .migi}ppp
+1.15	17.286	xmri_0005	![対面朗読のイラスト](media/index/image00001.png){: .migi}ppp
 1.716	18.436	xmri_0006	さまざまな理由で
 2.613	20.152	xmri_0007	読むことが難しいかたppp
 3.327	22.765	xmri_0008	図書館や&ensp;お近くのふれあい館でppp
@@ -11,11 +11,11 @@
 3.357	29.384	xmri_000A	図書館にある本以外でもOKですppp
 3.264	32.741	xmri_000B	お気軽にご利用くださいppp
 1.959	36.005	xmri_000C	###&ensp;録音図書でppp
-1.15	37.964	xmri_000D	![録音のイラスト](media/index/image00002.png){ .migi}ppp
-1.15	39.114	xmri_000E	![編集のイラスト](media/index/image00003.png){ .migi}ppp
+1.15	37.964	xmri_000D	![録音のイラスト](media/index/image00002.png){: .migi}ppp
+1.15	39.114	xmri_000E	![編集のイラスト](media/index/image00003.png){: .migi}ppp
 3.646	40.264	xmri_000F	取扱説明書や&ensp;興味深い本ppp
 3.088	43.910	xmri_0010	じっくり読み返したいと思われたらppp
-1.15	46.998	xmri_0011	![CD](media/index/image00004.png){ .migi}ppp
+1.15	46.998	xmri_0011	![CD](media/index/image00004.png){: .migi}ppp
 2.545	48.148	xmri_0012	私たち「やまびこ_+-」+-_がppp
 2.194	50.693	xmri_0013	声で・合成音声で
 3.198	52.887	xmri_0014	CDに録音してお届けしますppp

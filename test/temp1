@@ -17,7 +17,7 @@
 <span id="xmri_0003">何でもOK!ppp</span>
 	<p>&ensp;</p>
 	<p><span id="xmri_0004">###&ensp;対面朗読でppp</span>
-	<p><span id="xmri_0005">![対面朗読のイラスト](media/index/image00001.png){ .migi}ppp</span>
+	<p><span id="xmri_0005">![対面朗読のイラスト](media/index/image00001.png){: .migi}ppp</span>
 	<p><span id="xmri_0006">さまざまな理由で</span>
 <span id="xmri_0007">読むことが難しいかたppp</span>
 	<p><span id="xmri_0008">図書館や&ensp;お近くのふれあい館でppp</span>
@@ -26,11 +26,11 @@
 	<p><span id="xmri_000B">お気軽にご利用くださいppp</span>
 	<p>&ensp;</p>
 	<p><span id="xmri_000C">###&ensp;録音図書でppp</span>
-	<p><span id="xmri_000D">![録音のイラスト](media/index/image00002.png){ .migi}ppp</span>
-	<p><span id="xmri_000E">![編集のイラスト](media/index/image00003.png){ .migi}ppp</span>
+	<p><span id="xmri_000D">![録音のイラスト](media/index/image00002.png){: .migi}ppp</span>
+	<p><span id="xmri_000E">![編集のイラスト](media/index/image00003.png){: .migi}ppp</span>
 	<p><span id="xmri_000F">取扱説明書や&ensp;興味深い本ppp</span>
 	<p><span id="xmri_0010">じっくり読み返したいと思われたらppp</span>
-	<p><span id="xmri_0011">![CD](media/index/image00004.png){ .migi}ppp</span>
+	<p><span id="xmri_0011">![CD](media/index/image00004.png){: .migi}ppp</span>
 	<p><span id="xmri_0012">私たち「やまびこ_+-」+-_がppp</span>
 	<p><span id="xmri_0013">声で・合成音声で</span>
 <span id="xmri_0014">CDに録音してお届けしますppp</span>

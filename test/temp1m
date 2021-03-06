@@ -23,7 +23,7 @@ xmri_0003	何でもOK!ppp
 
 xmri_0004	###&ensp;対面朗読でppp
 
-xmri_0005	![対面朗読のイラスト](media/index/image00001.png){ .migi}ppp
+xmri_0005	![対面朗読のイラスト](media/index/image00001.png){: .migi}ppp
 
 xmri_0006	さまざまな理由で
 
@@ -41,15 +41,15 @@ xmri_000B	お気軽にご利用くださいppp
 
 xmri_000C	###&ensp;録音図書でppp
 
-xmri_000D	![録音のイラスト](media/index/image00002.png){ .migi}ppp
+xmri_000D	![録音のイラスト](media/index/image00002.png){: .migi}ppp
 
-xmri_000E	![編集のイラスト](media/index/image00003.png){ .migi}ppp
+xmri_000E	![編集のイラスト](media/index/image00003.png){: .migi}ppp
 
 xmri_000F	取扱説明書や&ensp;興味深い本ppp
 
 xmri_0010	じっくり読み返したいと思われたらppp
 
-xmri_0011	![CD](media/index/image00004.png){ .migi}ppp
+xmri_0011	![CD](media/index/image00004.png){: .migi}ppp
 
 xmri_0012	私たち「やまびこ_+-」+-_がppp
 

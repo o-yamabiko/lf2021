@@ -45,7 +45,7 @@ LC_COLLATE=C.UTF-8 sed \
     -e 's/&lt;/</g' \
     -e 's/&gt;/>/g' \
     -e 's/<h1>.*/xmrii_0001\t /' \
-    -e 's/<img src=\"images\(.*\)\" alt=\"\(.*\)\" class.*\/>/![\2](media\/'$2'\1){ .migi}/' \
+    -e 's/<img src=\"images\(.*\)\" alt=\"\(.*\)\" class.*\/>/![\2](media\/'$2'\1){: .migi}/' \
     -e 's/<a\([^>]*\)>\(.*\)\(<span.*>\)\(.*\)\(<\/span>\)\(.*\)<\/a>/\3\1((\2\4\6))\5/g' \
     -e 's/<\/span><\/p>/ppp<\/span>/g' \
     index.html > temp1
