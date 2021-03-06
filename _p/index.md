@@ -1,17 +1,14 @@
 ---
-docid: index
-date: 2021-03-06T02:37:01Z
-oto: index/sound0001
 layout: caymanyomi
-docid: index
+docid: index-p
 author: 音訳グループ やまびこ
-date: 2021-03-06T02:37:01Z
-oto: index/sound0001
-iro: 
-gra: 
+date: 2021-03-06T04:26:13Z
+iro: ba2964
+gra: 00adef
 ---
-   
+![ロゴ](media/index/logo-w2color.png){ .naka}
 
+[音声付きのページ](index-s.html){.migi}
 
 ## <span data-dur="3.828" data-begin="2.750" id="xmri_0001" markdown="1">一緒に読書を楽しみませんか?</span>
 
@@ -19,9 +16,11 @@ gra:
 <span data-dur="3.543" data-begin="11.679" id="xmri_0003" markdown="1">何でもOK!</span>
 
 
-### <span data-dur="2.064" data-begin="15.222" id="xmri_0004" markdown="1">対面朗読で</span>
+#[音声付きのページ](index-s.html){.migi}
 
-<span data-dur="1.15" data-begin="17.286" id="xmri_0005" markdown="1">![対面朗読のイラスト](media/index/image00001.png){ .migi}</span>
+## <span data-dur="2.064" data-begin="15.222" id="xmri_0004" markdown="1">対面朗読で</span>
+
+![対面朗読のイラスト](media/index/image00001.png){ .migi}
 
 <span data-dur="1.716" data-begin="18.436" id="xmri_0006" markdown="1">さまざまな理由で</span>
 <span data-dur="2.613" data-begin="20.152" id="xmri_0007" markdown="1">読むことが難しいかた</span>
@@ -35,17 +34,19 @@ gra:
 <span data-dur="3.264" data-begin="32.741" id="xmri_000B" markdown="1">お気軽にご利用ください</span>
 
 
-### <span data-dur="1.959" data-begin="36.005" id="xmri_000C" markdown="1">録音図書で</span>
+#[音声付きのページ](index-s.html){.migi}
 
-<span data-dur="1.15" data-begin="37.964" id="xmri_000D" markdown="1">![録音のイラスト](media/index/image00002.png){ .migi}</span>
+## <span data-dur="1.959" data-begin="36.005" id="xmri_000C" markdown="1">録音図書で</span>
 
-<span data-dur="1.15" data-begin="39.114" id="xmri_000E" markdown="1">![編集のイラスト](media/index/image00003.png){ .migi}</span>
+![録音のイラスト](media/index/image00002.png){ .migi}
+
+![編集のイラスト](media/index/image00003.png){ .migi}
 
 <span data-dur="3.646" data-begin="40.264" id="xmri_000F" markdown="1">取扱説明書や&ensp;興味深い本</span>
 
 <span data-dur="3.088" data-begin="43.910" id="xmri_0010" markdown="1">じっくり読み返したいと思われたら</span>
 
-<span data-dur="1.15" data-begin="46.998" id="xmri_0011" markdown="1">![CD](media/index/image00004.png){ .migi}</span>
+![CD](media/index/image00004.png){ .migi}
 
 <span data-dur="2.545" data-begin="48.148" id="xmri_0012" markdown="1">私たち「やまびこ」が</span>
 
@@ -59,10 +60,14 @@ gra:
 <span data-dur="4.43" data-begin="62.202" id="xmri_0018" markdown="1">いつでも&ensp;何度でも聴けます!</span>
 
 
+[音声付きのページ](index-s.html){.migi}
+
 ## <span data-dur="4.79" data-begin="66.632" id="xmri_0019" markdown="1">﻿利用してみたいけど…どうしたら…</span>
 
 
-### <span data-dur="1.065" data-begin="71.422" id="xmri_001A" markdown="1">①</span>
+#[音声付きのページ](index-s.html){.migi}
+
+## <span data-dur="1.065" data-begin="71.422" id="xmri_001A" markdown="1">①</span>
 <span data-dur="4.667" data-begin="72.487" id="xmri_001B" markdown="1">まずはお近くの図書館で利用カードの登録</span>
 
 <span data-dur="5.35" data-begin="77.154" id="xmri_001C" markdown="1">図書館の障害者サービス担当が登録のお手伝いをします</span>
@@ -72,7 +77,9 @@ gra:
 <span data-dur="5.793" data-begin="87.303" id="xmri_001E" markdown="1">CDの再生機の貸し出し・使い方など説明致します</span>
 
 
-### <span data-dur="0.928" data-begin="93.096" id="xmri_001F" markdown="1">②</span>
+#[音声付きのページ](index-s.html){.migi}
+
+## <span data-dur="0.928" data-begin="93.096" id="xmri_001F" markdown="1">②</span>
 <span data-dur="2.107" data-begin="94.024" id="xmri_0020" markdown="1">やまびこにお電話ください</span>
 <span data-dur="2.328" data-begin="96.131" id="xmri_0021" markdown="1">メールでもOKです</span>
 
@@ -91,7 +98,9 @@ gra:
 <span data-dur="5.195" data-begin="119.649" id="xmri_0029" markdown="1">バリアフリー映画会や朗読会なども開催しています</span>
 
 
-### <span data-dur="1.935" data-begin="124.844" id="xmri_002A" markdown="1">利用者さんからの声</span>
+#[音声付きのページ](index-s.html){.migi}
+
+## <span data-dur="1.935" data-begin="124.844" id="xmri_002A" markdown="1">利用者さんからの声</span>
 <span data-dur="1.993" data-begin="126.779" id="xmri_002B" markdown="1">(北区桐ヶ丘在住</span>
 <span data-dur="1.758" data-begin="128.772" id="xmri_002C" markdown="1">S.Iさん)</span>
 

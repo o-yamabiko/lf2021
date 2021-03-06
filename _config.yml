@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
 collections:
-  pages:
+  s:
     output: true
     permalink: :title.html
-  sample:
+  p:
     output: true
     permalink: :title.html

@@ -12,38 +12,14 @@ fi
 
 # create base md
 echo '---' > $2.md
-
-# if index
-if [[ $2 = index* ]] || [[ $2 = test* ]] ; then
-  echo 'docid: '$2 >> $2.md
-  if [[ $2 != index-* ]]; then
-    echo 'lang: '`sed s/index-// $2` >> $2.md
-  fi
-  echo 'date: '`date +%Y-%m-%dT%TZ` >> $2.md
-  echo 'oto: '$2'/sound0001' >> $2.md
-else
-
-  # if tusinYYYYmm
-  if [[ $2 != tusin* ]]; then
-    echo 'title: ' >> $2.md
-  else
-    echo 'title: やまびこ通信'$YEAR'年'$MONTH1'月号' >> $2.md
-  fi
-fi
-
 echo 'layout: caymanyomi' >> $2.md
 echo 'docid: '$2 >> $2.md
 echo 'author: 音訳グループ やまびこ' >> $2.md
 echo 'date: '`date +%Y-%m-%dT%TZ` >> $2.md
 echo 'oto: '$2'/sound0001' >> $2.md
-echo 'background: '$2'/default.png' >> $2.md
-echo 'imagefrom: ' >> $2.md
-echo 'imagefromurl: ' >> $2.md
-echo 'navigation: true' >> $2.md
 echo 'iro: ' >> $2.md
 echo 'gra: ' >> $2.md
 echo '---' >> $2.md
-echo '   ' >> $2.md
 
 # go to working dir
 cd $1
@@ -120,6 +96,8 @@ LC_COLLATE=C.UTF-8 sed \
     -e ':a;N;$!ba;s/<\/span>\n<a/<a/g' \
     temp3 > temp4
 LC_COLLATE=C.UTF-8 sed \
+    -e 's/<span[^>]*>!/!/g' \
+    -e 's/}ppp<\/span>/}\n/g' \
     -e 's/ppp<\/span>/<\/span>\n/g' \
     -e 's/\(<span[^>]*>\)\(#*\)&ensp;/\n\2 \1/g' \
     -e 's/<span\([^>]*\)>\( href[^(]*\)((\([^)]*\)))<\/span>/<a\1\2>\3<\/a>/g' \

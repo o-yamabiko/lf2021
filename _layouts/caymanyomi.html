@@ -4,7 +4,7 @@
     <meta charset='utf-8'>
     <meta name="robots" content="noindex">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.oto %}音が出ます：{% endif %}{{ page.title }} | {{ site.title }}</title>
+    <title>{% if page.oto %}音が出ます：{% endif %}{{ page.title }} | {{ page.author }}</title>
 
             {% seo title=false %}
 	    
@@ -113,7 +113,7 @@
             <noscript>
                 <p class="error"><em><strong>お知らせ:</strong> このページの読み上げ機能 HTML5 read-along を利用するには、 JavaScript を有効にしておく必要があります。</em></p>
             </noscript>
-	    <div id="forprint"><a href="/p{{ page.url }}">音声なし（印刷用）ページ</a></div>
+	    <div id="forprint"><a href="./">音声なしのページ</a></div>
         </div>
   <div id="logo"></div>
         {% endif %}
