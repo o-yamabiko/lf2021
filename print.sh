@@ -10,7 +10,7 @@ do
         LC_COLLATE=C.UTF-8 sed \
           -e '/^oto:/d' \
           -e 's/^\(docid: .*\)/\1-p/' \
-          -e 's/## </[音声付きのページ]('$k'-s.html){.migi}\n\n## </' \
+          -e 's/## </[音声付きのページ]('$k'-s.html){: .migi}\n\n## </' \
         $j > ../_p/$j
         LC_COLLATE=C.UTF-8 sed \
           -e 's/^\(docid: .*\)/\1-s/' \
